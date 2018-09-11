@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head><link rel="stylesheet" href="./style/style.css"  ></head>
+<body>
+
+
+  <p class ="font">
+    <%= users %>
+
+    <% for (var key in users) { %>
+        <h3><%= users[key].firstname %></h3>
+        <h3><%= users[key].lastname %></h3>
+        <h3><%= users[key].email %></h3>
+    <% } %>
+
+</body>
+</html>

@@ -1,0 +1,61 @@
+.font {
+  font-size: 12px;
+  color: hotpink;
+
+}
+
+.button{
+  font-size: 32px;
+}
+.register{
+    font-size: 32px;
+}
+
+
+
+li, ul, #font {
+  font-size: 12px;
+  color: green;
+
+}
+
+tr:hover {background-color:#f5f5f5;}
+
+div h1 {
+  font-style: oblique;
+  color: hotpink;
+}
+
+
+
+p{
+  font-size:  32px;
+}
+
+l:hover {background-color:#f5f5f5;}
+
+.l {border: radius: 20px;
+  font-size: 12px;
+  padding: 20px;
+  text-align: center;
+  border-radius: 50%;
+  background-color: #4CAF50;
+
+}
+
+div, .center {
+text-align: center;
+display: inline-block;
+margin: auto;
+    width: 60%;
+    border: 3px solid #73AD21;
+    padding: 10px;
+}
+
+h3{
+color: turquoise;
+}
+
+p, .font{
+  font-style: italic;
+}
